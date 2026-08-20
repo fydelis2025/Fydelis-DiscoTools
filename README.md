@@ -10,7 +10,7 @@ Focado em performance e segurança, o Fydelis-DiscoTools permite desde o partici
 ## Telas e Imagens do Sistema
 
 <p align="center">
-  <img src="https://github.com/fydelis2025/FydelGuard/blob/main/Fydelis-DiscoTools.png" alt="FydelisTechOS Dashboard" width="100%">
+  <img src="https://github.com/fydelis2025/Fydelis-DiscoTools/blob/main/Fydelis-DiscoTools.png" alt="FydelisTechOS Dashboard" width="100%">
 </p>
 
 ## Principais Funcionalidades
