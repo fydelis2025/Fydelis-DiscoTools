@@ -1,0 +1,16 @@
+# 1. Instalar dependências
+sudo apt update
+sudo apt install -y build-essential cmake qt6-base-dev gdisk testdisk foremost
+
+# 2. Clonar/build
+mkdir -p ~/fydelisdisc && cd ~/fydelisdisc
+# (copiar todos os arquivos acima para dentro)
+mkdir build && cd build
+cmake ..
+make -j$(nproc)
+
+# 3. Executar (como root para funcionalidade completa)
+sudo ./FydelisDiskSuite
+
+# 4. Instalar no sistema
+sudo make install
