@@ -7,6 +7,12 @@ O **Fydelis-DiscoTools** nasceu da necessidade de preencher uma lacuna no ecossi
 
 Focado em performance e segurança, o Fydelis-DiscoTools permite desde o particionamento básico até a recuperação profunda de arquivos deletados, entregando uma experiência de usuário profissional e organizada.
 
+## Telas e Imagens do Sistema
+
+<p align="center">
+  <img src="https://github.com/fydelis2025/FydelGuard/blob/main/Fydelis-DiscoTools.png" alt="FydelisTechOS Dashboard" width="100%">
+</p>
+
 ## Principais Funcionalidades
 - **Gerenciamento Inteligente:** Enumeração precisa de discos e partições.
 - **Formatação Segura:** Interface simplificada para preparação de unidades.
